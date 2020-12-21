@@ -1,3 +1,7 @@
+# Simple example routing example with React-Router.
+
+## *** *Minimal styling applied -- purpose was to simply demonstrate a Single Page App where the Nav Bar is constant on all pages while navigating through the different pages.*
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
