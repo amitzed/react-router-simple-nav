@@ -2,11 +2,13 @@ import React from 'react';
 
 const Contact = () => {
   return (
-    <div>
-      <h1>Contact Us Page</h1>
-    </div>
+    <h2 class="ui center aligned icon header">
+      <i class="circular phone icon"></i>
+      Contact Us Page
+    </h2>
   );
 }
+
 
 
 export default Contact;

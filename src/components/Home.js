@@ -2,9 +2,10 @@ import React from 'react';
 
 const Home = () => {
   return (
-    <div>
-      <h1>The Home Page</h1>
-    </div>
+    <h2 class="ui center aligned icon header">
+      <i class="circular home icon"></i>
+      The Home Page
+    </h2>
   );
 }
 
